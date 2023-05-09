@@ -1,0 +1,20 @@
+{
+  "name": "mveraldi-pack",
+  "displayName": "mveraldi-pack",
+  "description": "The extensions I use daily",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "Equinusocio.vsc-community-material-theme",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "vscodevim.vim",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "Gruntfuggly.todo-tree"
+  ]
+}
